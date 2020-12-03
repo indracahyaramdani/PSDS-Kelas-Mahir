@@ -1,8 +1,8 @@
-# Joko Eliyanto
+# Indra Cahya Ramdani
 
 <img align='right' src = "https://github-readme-stats.vercel.app/api?username=indracahyaramdani&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515&line_height=25">
 
-# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Joko Eliyanto 🧑🏻
+# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Indra Cahya Ramdani 
 
 <p align="justify">
   I am mathematicians who passionate to be a data scientist. I love to learn Data Visualization, Big Data, Machine Learning, Data Mining, R programming, Python programming and other data science topics.
@@ -26,6 +26,7 @@
 <p>
   <a href="https://www.linkedin.com/in/indra-cahya-ramdani-5178881a3/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/indracahyaramdani" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-    <a href="https://medium.com/@joko1400015006" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23f21d37.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://medium.com/@joko1400015006" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23f21d37.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://twitter.com/indracahyaram23" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://twitter.com/indracahyaram23" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
